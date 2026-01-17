@@ -171,5 +171,3 @@ Commercial use and redistribution are subject to future licensing decisions.
 ## 🙏 Acknowledgements
 Developed as part of the **Minor in AI** program
 **IIT Ropar × Masai**
-
-Just tell me the next step.
